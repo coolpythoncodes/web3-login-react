@@ -31,7 +31,7 @@ const Login = () => {
         <section className="h-screen grid place-items-center bg-[#182e48]">
             <div className="flex flex-col items-center">
                 <Button title="🔓 Log in with Web3" className="bg-[#21bf96]" handleClick={connect} />
-                <p className="my-4 text-[#feba35] text-center">Ensure to have an Ethereum based wallet installed i.e MetaMask</p>
+                <p className="my-4 w-4/5 mx-auto text-[#feba35] text-center">Ensure to have an Ethereum based wallet installed i.e MetaMask</p>
             </div>
         </section>)
 }

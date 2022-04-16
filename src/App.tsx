@@ -55,7 +55,7 @@ const App = () => {
   return (
     <section className="h-screen grid place-items-center bg-[#182e48]">
       <div className="flex items-center flex-col">
-        <h2 className="text-6xl text-[#21bf96]">Wallet Connected! 🤝</h2>
+        <h2 className="text-3xl md:text-6xl text-[#21bf96] text-center">Wallet Connected! 🤝</h2>
         <h3 className="text-white mt-4 text-center">
           ETH Wallet Address:
           <span className="block rounded-[19px] p-2 mt-4 text-[#feba35] bg-black">{account}</span>
