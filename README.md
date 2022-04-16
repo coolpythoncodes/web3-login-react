@@ -1,4 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2bfff05f-cbe1-4f14-b6b8-87093d108fef/deploy-status)](https://app.netlify.com/sites/braln/deploys)
 
 ## Simple web3 login with metamask
 
