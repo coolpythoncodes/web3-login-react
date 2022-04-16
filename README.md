@@ -1,6 +1,22 @@
-# Getting Started with Create React App
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2bfff05f-cbe1-4f14-b6b8-87093d108fef/deploy-status)](https://app.netlify.com/sites/braln/deploys)
+
+## Simple web3 login with metamask
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## 🖇 How to Start
+
+- Git clone and
+- `cd web3-login-react`
+- `npm install` to install dependencies
+- `npm start` to start development server
+
+
+## 🛠 Tools
+
+- React
+- Typescript
+- Tailwindcss
 
 ## Available Scripts
 
@@ -14,8 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm test`
-
+### `npm test` 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
@@ -44,3 +59,6 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Credits: [Ayodele Samuel Adebayo](https://github.com/unclebay143) for his article [How to Build a Web3 Login with Web3.js Library](https://web3.hashnode.com/how-to-build-a-web3-login-with-web3js-library)
+
